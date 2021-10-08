@@ -1,4 +1,4 @@
-# MasterProject2021
+# MastersProject2021
 Cybercrime cases currently involve demanding payment after infecting a victimized
 organization’s computers with ransomware or impairing it is operations through a
 distributed denial-of-service attack which significantly impacts the confidentiality, integrity and availability of data. Recent researchers show that hybridizing techniques
