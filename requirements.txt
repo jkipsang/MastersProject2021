@@ -54,7 +54,7 @@ databricks-cli==0.12.2
 decorator==4.4.1
 defusedxml==0.6.0
 diff-match-patch==20181111
-distributed==2.11.0
+distributed==2021.10.0
 docker==4.3.1
 docutils==0.16
 entrypoints==0.3
