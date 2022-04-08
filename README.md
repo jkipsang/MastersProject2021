@@ -16,4 +16,4 @@ ranging from 0.00% to 12.57% and a low average detection rate of 0.00% on a clea
 dataset. Random Forest emerged as the best classifier for both cleaned and uncleaned
 dataset with an average detection rate for static analysis of 0.00% respectively
 # requirements
-You will need to request an API Key from VirusTotal the update the APIKey-Value in the Notebooks and install the requirements.txt
+You will need to request an API Key from VirusTotal then update the APIKey-Value in the Notebooks and install the requirements.txt
