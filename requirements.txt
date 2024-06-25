@@ -80,7 +80,7 @@ HeapDict==1.0.1
 html5lib==1.0.1
 htmlmin==0.1.12
 hypothesis==5.5.4
-idna==2.8
+idna==3.7
 ImageHash==4.1.0
 imageio==2.6.1
 imagesize==1.2.0
